@@ -94,7 +94,8 @@
 
 
 ### Stats  
-[stats](https://github-readme-stats.vercel.app/api?username=Nishanth-thiyakarajan&show_icons=true&theme=dark&count_private=true)
+
+![stats](https://github-readme-stats.vercel.app/api?username=Nishanth-thiyakarajan&show_icons=true&theme=dark&count_private=true)
 
 ---
 
