@@ -4,7 +4,7 @@
 
 ### Greetings  
 <div align="center">
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/rotate.gif?raw=true" align="center" style="width: 100%" style="height: 100" />
+<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/rotate.gif?raw=true" align="center" width: 100%; height: 100 />
 </div>  
 <!-- <img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/rotate.gif?raw=true" align = "right" height = "300px"> -->
 
