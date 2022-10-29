@@ -112,7 +112,7 @@
 
 
 ### Spotify  
-<img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=fygigchcl527b24dkt96ghccb&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=fygigchcl527b24dkt96ghccb&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=true" align="center" style="width: 100%" />  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fygigchcl527b24dkt96ghccb&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fygigchcl527b24dkt96ghccb&redirect=true)
 
 <br/>  
 
