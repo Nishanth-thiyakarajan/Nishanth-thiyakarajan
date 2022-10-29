@@ -1,4 +1,8 @@
-### Hi there 👋
+# <div align="center">Just</div>
+<div align="center">
+<img src="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/profile-banner.jpg"/>
+</div>  
+
 
 # <div align="center">I'm Nishanth Thiyakarajan</div>
 
