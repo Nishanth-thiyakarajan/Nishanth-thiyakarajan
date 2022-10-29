@@ -15,8 +15,7 @@
 ### Ask me  
 ❓ Ask me about anything related to Data Science  
 
-
-
+---
 
 <br/>  
 
@@ -89,32 +88,30 @@
 
 <br/>  
 
+---
 
 ## Github Stats  
 
 
 ### Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nishanth-thiyakarajan&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nishanth-thiyakarajan&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div> 
 
-
-
-### Languages Used  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth-thiyakarajan&hide_border=true&layout=compact" align="left" style="width: 100%" />  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-
+---
 
 ### Spotify  
-<div align="center">
+
+🎶 To get my same vibe 🎶
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fygigchcl527b24dkt96ghccb&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fygigchcl527b24dkt96ghccb&redirect=true)
+ 
+--- 
+
+# <div align="center">Just</div>
+<div align="center">
+<img src="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/profile-gif.gif"/>
 </div>  
+
+---
 
 <br/>  
 
@@ -133,12 +130,6 @@
                 />
             </a></div>
 <br />
-
-
-### Just
-<div align="center">
-<img src="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/profile-gif.gif"/>
-</div>  
 
 ----
 
