@@ -100,9 +100,10 @@
 
 ### Spotify  
 
-🎶 To get my same vibe 🎶
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fygigchcl527b24dkt96ghccb&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fygigchcl527b24dkt96ghccb&redirect=true)
+### <div align="center">🎶 To get my same vibe 🎶 </div> 
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=fygigchcl527b24dkt96ghccb&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=fygigchcl527b24dkt96ghccb&cover_image=true&theme=default&show_offline=true" align="center"/>
+ </div>  
  
 --- 
 
