@@ -93,9 +93,11 @@
 ## Github Stats  
 
 
-### Stats  
+### Stats 
 
-![stats](https://github-readme-stats.vercel.app/api?username=Nishanth-thiyakarajan&show_icons=true&theme=dark&count_private=true)
+<div align="center"> 
+<img src="https://github-stats-alpha.vercel.app/api?username=Nishanth-thiyakarajan&cc=000&tc=afa&ic=ff1&bc=110" width:"100%"/>
+</div>
 
 ---
 
