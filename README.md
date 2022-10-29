@@ -95,9 +95,13 @@
 
 ### Stats 
 
-<div align="center"> 
-<img src="https://github-stats-alpha.vercel.app/api?username=Nishanth-thiyakarajan&cc=000&tc=afa&ic=ff1&bc=110" width:"100%"/>
-</div>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Nishanth-thiyakarajan&show_icons=true&theme=dark&icon_color=36ff00&border_color=36ff00&layout=compact&card_width=1000px&count_private=true&text_color=00fcff&title_color=ffde00&border_radius=60&bg_color=1F2022"
+  
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nishanth-thiyakarajan&show_icons=true&icon_color=36ff00&border_color=36ff00&layout=compact&card_width=1000px&count_private=true&text_color=00fcff&title_color=ffde00&border_radius=60" />
+</picture>
 
 ---
 
