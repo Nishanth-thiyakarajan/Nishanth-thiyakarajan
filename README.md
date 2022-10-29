@@ -1,45 +1,31 @@
 ### Hi there 👋
 
-
-
-### Greetings  
-<div align="center">
-<img src="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/profile-gif.gif"/>
-</div>  
-<!-- <img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/rotate.gif?raw=true" align = "right" height = "300px"> -->
-
-
-
-### Name  
-# <div align="center">Nishanth Thiyakarajan</div>  
-  
-
-
+# <div align="center">I'm Nishanth Thiyakarajan</div>
 
 ### Work  
 🔭 I’m currently working as an Assistant System Engineer at TCS(Tata Consultancy Services), Chennai.  
-  
-
 
 
 ### Studies  
 🌱 I have completed Computer Science and Engineering(CSE) at Kongu Engineering College(KEC).
 
 🌱 Now, I’m currently learning Data Science  
-  
-
 
 
 ### Ask me  
 ❓ Ask me about anything related to Data Science  
-  
+
+
+<div align="center">
+<img src="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/profile-gif.gif"/>
+</div>  
+
 
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Programming Languages  
@@ -150,7 +136,6 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **Nishanth-thiyakarajan/Nishanth-thiyakarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
