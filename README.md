@@ -16,9 +16,6 @@
 ❓ Ask me about anything related to Data Science  
 
 
-<div align="center">
-<img src="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/profile-gif.gif"/>
-</div>  
 
 
 <br/>  
@@ -134,6 +131,12 @@
                 />
             </a></div>
 <br />
+
+
+### Just
+<div align="center">
+<img src="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/profile-gif.gif"/>
+</div>  
 
 ----
 
