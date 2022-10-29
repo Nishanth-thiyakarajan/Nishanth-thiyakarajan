@@ -94,7 +94,7 @@
 
 
 ### Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nishanth-thiyakarajan&theme=dark&show_icons=true&count_private=true" align="center" style="width: 100%" /></div> 
+[stats](https://github-readme-stats.vercel.app/api?username=Nishanth-thiyakarajan&show_icons=true&theme=dark&count_private=true)
 
 ---
 
