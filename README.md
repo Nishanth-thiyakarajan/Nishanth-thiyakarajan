@@ -1,4 +1,4 @@
-# <div align="center">Just</div>
+# <div align="center">Hi All</div>
 <div align="center">
 <img src="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/profile-banner.jpg"/>
 </div>  
@@ -34,8 +34,10 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/MySQL.png" alt="MySQL" height="50" /></a>
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/oracle.png" alt="Oracle" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/linux.png" alt="Linux" height="50" /></a> 
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/c.png" alt="C" height="50" /></a>   
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/git.png" alt="Git" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/c.png" alt="C" height="50" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/html.png" alt="C" height="50" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/css.png" alt="C" height="50" /></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/git.png" alt="Git" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -46,7 +48,11 @@
 <div align="center">  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/tableau.png" alt="Tableau" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/power bi.png" alt="Power Bi" height="50" /></a>
-<a href="https://support.microsoft.com/en-us/excel" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/excel.png" alt="Power Bi" height="50" /></a>
+<a href="https://support.microsoft.com/en-us/excel" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/excel.png" alt="Excel" height="50" /></a>
+ <a href="https://learn.microsoft.com/en-us/microsoft-365/?view=o365-worldwide" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/office365.png" alt="Office365" height="50" /></a>
+<a href="https://colab.research.google.com" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/colab.png" alt="Colab" height="50" /></a>
+<a href="https://code.visualstudio.com" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/VScode.png" alt="Visual Studio Code" height="50" /></a>
+<a href="https://docs.anaconda.com/navigator/install/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/anaconda.png" alt="Anaconda" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -60,7 +66,8 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/premiere pro.png" alt="Premiere Pro" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/xd.png" alt="Adobe XD" height="50" /></a>   
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/after effects.png" alt="After Effects" height="50" /></a>    
-</div>
+<a href="https://www.adobe.com/in/products/media-encoder.html" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/Media encoder.png" alt="Media Encoder" height="50" /></a> 
+ </div>
 
 </td></tr></table>  
 
@@ -76,11 +83,17 @@
 <a href="https://www.facebook.com/nishanth.nishanth.393" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/facebook.png" alt="Facebook" height="100" width="100" /></a>  
 <a href="https://linkedin.com/in/nishanth-thiyakarajan/" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/linkedin.png" alt="Linkedin" height="100" width="100" /></a>   
 <a href="https://wa.me/+919976738856" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/whatsapp.png" alt="WhatsApp" height="90" width="90" /></a>
-<a href="mailto:nishanth.thiyakarajan@gmail.com" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/mail.png" alt="Gmail" height="100" width="110" /></a>
- <a href="https://instagram.com/nishanth_thiyakarajan" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/Instagram.png" alt="Instagram" height="80" width="80" /></a> 
+<a href="mailto:nishanth.thiyakarajan@gmail.com" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/mail.png" alt="Gmail" height="80" width="90" /></a>
+<a href="https://instagram.com/nishanth_thiyakarajan" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/instagram.svg" alt="Instagram" height="80" width="80" /></a>
+ <a href="https://t.me/nishanth_thiyakarajan" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/telegram.png" alt="Telegram" height="80" width="80" /></a>
+<a href="https://www.hackerrank.com/nishanth_1999" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/hackerrank.png" alt="HackerRank" height="80" width="80" /></a> 
 </div>
 
-
+##### <div align="center">To Download my CV</div>
+<div align="center"> 
+<a href="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/Documents/Resume_Nishanth.pdf" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/resume.png" alt="Github" height="100" width="100" /></a> 
+ </div>
+ 
 ---
 
 ## Github Stats  
@@ -126,6 +139,8 @@
                 <img
                     src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/paypal.png" 
                     align="center"
+                    width="100"
+                    Height="100"
                 />
             </a></div>
 <br />
