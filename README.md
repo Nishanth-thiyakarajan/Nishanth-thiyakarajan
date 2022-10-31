@@ -31,11 +31,11 @@
 ### Programming Languages  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/python.png" alt="Python" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>   
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/MySQL.png" alt="MySQL" height="50" /></a>
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/Oracle.png" alt="Oracle" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/Linux.png" alt="Linux" height="50" /></a> 
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/c.png" alt="C" height="50" /></a>   
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/git.png" alt="Git" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -44,8 +44,9 @@
 
 ### Tools  
 <div align="center">  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/tableau.png" alt="Tableau" height="50" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/power bi.png" alt="Power Bi" height="50" /></a>
+<a href="https://support.microsoft.com/en-us/excel" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/excel.png" alt="Power Bi" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -54,11 +55,11 @@
 
 ### Editing  
 <div align="center">  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>   
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>    
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/Phtoshop.png" alt="Photoshop" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/illustrator.png" alt="Illustrator" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/premiere pro.png" alt="Premiere Pro" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/xd.png" alt="Adobe XD" height="50" /></a>   
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/after effects.png" alt="After Effects" height="50" /></a>    
 </div>
 
 </td></tr></table>  
