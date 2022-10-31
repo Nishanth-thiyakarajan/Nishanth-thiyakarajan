@@ -69,7 +69,7 @@
 ---
 
 ## Connect with me  
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/Nishanth-thiyakarajan" target="_blank">
 <img src=https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/github.png alt=github style="margin-bottom: 5px;" />
 </a>
@@ -85,10 +85,21 @@
 <a href="https://instagram.com/nishanth_thiyakarajan" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>   -->
 
-<br/>  
+<table><tr><td valign="top" width="100%">
+
+### Connect With Me
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/python.png" alt="Python" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/MySQL.png" alt="MySQL" height="50" /></a>
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/oracle.png" alt="Oracle" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/linux.png" alt="Linux" height="50" /></a> 
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/c.png" alt="C" height="50" /></a>   
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/git.png" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>
 
 ---
 
