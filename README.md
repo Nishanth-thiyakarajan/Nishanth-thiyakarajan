@@ -68,38 +68,18 @@
 
 ---
 
-## Connect with me  
-<!-- <div align="center">
-<a href="https://github.com/Nishanth-thiyakarajan" target="_blank">
-<img src=https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/github.png alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Nishanth0729" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/nishanth.nishanth.393" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/nishanth-thiyakarajan/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/nishanth_thiyakarajan" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>   -->
+## <div align="center">Connect with Me</div>
 
-<table><tr><td valign="top" width="100%">
-
-### Connect With Me
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/python.png" alt="Python" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/MySQL.png" alt="MySQL" height="50" /></a>
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/oracle.png" alt="Oracle" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/linux.png" alt="Linux" height="50" /></a> 
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/c.png" alt="C" height="50" /></a>   
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/git.png" alt="Git" height="50" /></a>  
+<a href="https://github.com/Nishanth-thiyakarajan" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/github.png" alt="Github" height="100" width="100" /></a>  
+<a href="https://twitter.com/Nishanth0729" target="_blank"><img  src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/twitter.png" alt="Twitter" height="100" width="100" /></a>
+<a href="https://www.facebook.com/nishanth.nishanth.393" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/facebook.png" alt="Facebook" height="100" width="100" /></a>  
+<a href="https://linkedin.com/in/nishanth-thiyakarajan/" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/linkedin.png" alt="Linkedin" height="100" width="100" /></a>   
+<a href="https://wa.me/+919976738856" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/whatsapp.png" alt="WhatsApp" height="90" width="90" /></a>
+<a href="mailto:nishanth.thiyakarajan@gmail.com" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/mail.png" alt="Gmail" height="100" width="110" /></a>
+ <a href="https://instagram.com/nishanth_thiyakarajan" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/Instagram.png" alt="Instagram" height="80" width="80" /></a> 
 </div>
 
-</td></tr></table>
 
 ---
 
@@ -110,9 +90,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Nishanth-thiyakarajan&show_icons=true&theme=dark&icon_color=36ff00&border_color=36ff00&layout=compact&card_width=1000px&count_private=true&text_color=00fcff&title_color=ffde00&border_radius=60&bg_color=0d1117"
-  
-/>
+  srcset="https://github-readme-stats.vercel.app/api?username=Nishanth-thiyakarajan&show_icons=true&theme=dark&icon_color=36ff00&border_color=36ff00&layout=compact&card_width=1000px&count_private=true&text_color=00fcff&title_color=ffde00&border_radius=60&bg_color=0d1117" />
 <img src="https://github-readme-stats.vercel.app/api?username=Nishanth-thiyakarajan&show_icons=true&icon_color=36ff00&border_color=36ff00&layout=compact&card_width=1000px&count_private=true&text_color=00fcff&title_color=ffde00&border_radius=60&bg_color=0d1117" />
 </picture>
 
@@ -146,7 +124,7 @@
 <div align="center">
             <a href="https://paypal.me/Nishanth0729" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/paypal.png" 
                     align="center"
                 />
             </a></div>
