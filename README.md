@@ -118,34 +118,17 @@
  
 --- 
 
-# <div align="center">Just</div>
+### <div align="center">#Quote#</div>
+
 <div align="center">
 <img src="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/profile-gif.gif"/>
 </div>  
 
 ---
 
-<br/>  
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Nishanth-thiyakarajan&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/Nishanth0729" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/paypal.png" 
-                    align="center"
-                    width="100"
-                    Height="100"
-                />
-            </a></div>
-<br />
-
-----
+<img src="https://komarev.com/ghpvc/?username=Nishanth-thiyakarajan&&style=flat-square" align="center" height="60" width="240"/>
+</div>
 
 <!--
 **Nishanth-thiyakarajan/Nishanth-thiyakarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
