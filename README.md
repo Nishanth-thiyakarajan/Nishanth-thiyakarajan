@@ -82,7 +82,7 @@
 
 ##### <div align="center">To Download my CV</div>
 <div align="center"> 
-<a href="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/Documents/Resume_Nishanth.pdf" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/resume.png" alt="Github" height="100" width="100" /></a> 
+<a href="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/Nishanth's Resume.pdf" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/resume.png" alt="Github" height="100" width="100" /></a> 
  </div>
  
 ---
