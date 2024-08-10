@@ -98,15 +98,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Nishanth-thiyakarajan&show_icons=true&icon_color=36ff00&border_color=36ff00&layout=compact&card_width=1000px&count_private=true&text_color=00fcff&title_color=ffde00&border_radius=60&bg_color=0d1117" />
 </picture>
 
----
-
-### Spotify  
-
-### <div align="center">🎶 To get my same vibe 🎶 </div> 
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=fygigchcl527b24dkt96ghccb&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=fygigchcl527b24dkt96ghccb&cover_image=true&theme=default&show_offline=true" align="center"/>
- </div>  
- 
 --- 
 
 ### <div align="center">#Quote#</div>
