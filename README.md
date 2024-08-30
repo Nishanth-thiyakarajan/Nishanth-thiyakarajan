@@ -117,7 +117,7 @@ Feel free to reach out if you have any opportunities or want to discuss potentia
 ## <div align="center">To Download my CV</div>
 
 <div align="center"> 
-<a href="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/Nishanth_Thiyakarajan.pdf" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/resume.png" alt="Github" height="100" width="100" /></a> 
+<a href="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/Nishanth Thiyakarajan.pdf" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/resume.png" alt="Github" height="100" width="100" /></a> 
  </div>
  
 ---
