@@ -114,14 +114,15 @@ Feel free to reach out if you have any opportunities or want to discuss potentia
 <a href="https://www.hackerrank.com/nishanth_1999" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/hackerrank.png" alt="HackerRank" height="80" width="80" /></a> 
 </div>
 
-##### <div align="center">To Download my CV</div>
+## <div align="center">To Download my CV</div>
+
 <div align="center"> 
 <a href="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/Nishanth_Thiyakarajan.pdf" target="_blank"><img src="https://github.com/Nishanth-thiyakarajan/Icons/blob/main/icons/resume.png" alt="Github" height="100" width="100" /></a> 
  </div>
  
 ---
 
-## Github Stats  
+## <div align="center"> Github Stats </div> 
 
 
 ### Stats 
@@ -133,8 +134,6 @@ Feel free to reach out if you have any opportunities or want to discuss potentia
 </picture>
 
 --- 
-
-### <div align="center">#Quote#</div>
 
 <div align="center">
 <img src="https://github.com/Nishanth-thiyakarajan/Nishanth-thiyakarajan/blob/main/profile-gif.gif"/>
