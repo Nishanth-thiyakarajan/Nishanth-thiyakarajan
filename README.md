@@ -7,17 +7,13 @@
 # <div align="center">I'm Nishanth Thiyakarajan</div>
 
 ### Work  
-🔭 I’m currently working as an Assistant System Engineer at TCS(Tata Consultancy Services), Chennai.  
+🔭 I am actively looking for opportunities in Data Analyst, ML Engineer, Data Scientist, and Business Analyst roles. I have hands-on experience with personal projects and am eager to apply my skills professionally. I am available to join immediately and open to working from any location in India (comfortable with WFH/WFO).
 
 
 ### Studies  
 🌱 I have completed Computer Science and Engineering(CSE) at Kongu Engineering College(KEC).
 
-🌱 Now, I’m currently learning Data Science  
-
-
-### Ask me  
-❓ Ask me about anything related to Data Science  
+🌱 Now, I’m currently learning Artificial Intelligence and Data Science 
 
 ---
 
