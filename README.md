@@ -9,13 +9,51 @@
 ### Work  
 🔭 I am actively looking for opportunities in Data Analyst, ML Engineer, Data Scientist, and Business Analyst roles. I have hands-on experience with personal projects and am eager to apply my skills professionally. I am available to join immediately and open to working from any location in India (comfortable with WFH/WFO).
 
+**Skills:**
+- **Data Analyst:** SQL, Excel, Tableau, Power BI, Data Cleaning, Data Visualization, Data Modeling, Data Analysis, Reporting
+- **Machine Learning:** Python, Scikit-Learn, TensorFlow, NLP, Regression, Classification, Clustering, Model Evaluation, Feature Engineering
+- **Business Analyst:** Requirement Gathering, Business Process Analysis, Stakeholder Management, Data-Driven Decision Making, Creating Dashboards, Market Research
+
+**Recent Job Simulations:**
+- **Commonwealth Bank Introduction to Data Science Job Simulation (August 2024):** Demonstrated proficiency in creating data engineering pipelines, anonymizing personal data, proposing effective data analysis approaches, and designing well-structured databases.
+- **Accenture North America Data Analytics and Visualization Job Simulation (August 2024):** Focused on cleaning, modeling, and analyzing datasets to uncover insights and creating presentations to communicate key findings.
 
 ### Studies  
-🌱 I have completed Computer Science and Engineering(CSE) at Kongu Engineering College(KEC).
+🌱 I have completed Computer Science and Engineering (CSE) at Kongu Engineering College (KEC).
 
-🌱 Now, I’m currently learning Artificial Intelligence and Data Science 
+🌱 Now, I’m currently learning Artificial Intelligence and Data Science.
+
+### Projects
+
+🔹 **Movie Review Sentiment Analysis**  
+Using SpaCy, I have developed a project to determine the sentiment of sentences. This project utilizes the medium-sized SpaCy model (`en_core_web_md`) for sentiment analysis.  
+*Technology:* SpaCy, Jupyter Notebook  
+*Last Updated:* 2 weeks ago  
+*GitHub Repository:* [Movie-review-Sentiment-Analysis](https://github.com/Nishanth-thiyakarajan/Movie-review-Sentiment-Analysis)
+
+🔹 **YouTube Data Harvesting**  
+Used Google API to harvest YouTube data, which is then stored in MongoDB (NoSQL) and AWS RDS (SQL). The project involves retrieving and analyzing data from these databases.  
+*Technology:* Python, Google API, MongoDB, AWS RDS  
+*Last Updated:* 2 weeks ago  
+*GitHub Repository:* [Youtube_data_Harvesting](https://github.com/Nishanth-thiyakarajan/Youtube_data_Harvesting)
+
+🔹 **Mobile Price Classification**  
+Developed a machine learning model to classify mobile phones based on their prices. This project involves predicting mobile price categories using machine learning techniques.  
+*Technology:* Machine Learning  
+*Last Updated:* 2 weeks ago  
+*GitHub Repository:* [Mobile-Price-Classification](https://github.com/Nishanth-thiyakarajan/Mobile-Price-Classification)
+
+
+### Contact
+**GitHub:** [https://github.com/Nishanth-thiyakarajan](https://github.com/Nishanth-thiyakarajan)  
+**Portfolio:** [https://nishanth-thiyakarajan.github.io/#/](https://nishanth-thiyakarajan.github.io/#/)  
+**LinkedIn:** [https://www.linkedin.com/in/nishanth-thiyakarajan/](https://www.linkedin.com/in/nishanth-thiyakarajan/)
+
+Feel free to reach out if you have any opportunities or want to discuss potential collaborations!
+
 
 ---
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
